@@ -1,4 +1,4 @@
-#Shivam's First CS193 Homework
+# Shivam's First CS193 Homework
 
 ## My Favorite Things About CS193
 - The flexibility in the coursework and projects
